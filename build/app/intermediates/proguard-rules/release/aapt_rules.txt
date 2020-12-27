@@ -1,0 +1,6 @@
+# Referenced at C:\Users\OLARNLAPTOP00\Desktop\E-commerce-App-UI-Flutter-master\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\OLARNLAPTOP00\Desktop\E-commerce-App-UI-Flutter-master\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
+-keep class com.example.shop_app.MainActivity { <init>(); }
+# Referenced at C:\Users\OLARNLAPTOP00\Desktop\E-commerce-App-UI-Flutter-master\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }

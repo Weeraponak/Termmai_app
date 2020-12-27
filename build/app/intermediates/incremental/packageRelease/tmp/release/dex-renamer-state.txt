@@ -1,0 +1,4 @@
+#Sat Dec 26 13:13:47 ICT 2020
+base.0=C\:\\Users\\OLARNLAPTOP00\\Desktop\\E-commerce-App-UI-Flutter-master\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
